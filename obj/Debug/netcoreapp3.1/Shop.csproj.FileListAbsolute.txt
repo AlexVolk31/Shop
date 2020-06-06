@@ -1,0 +1,13 @@
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache

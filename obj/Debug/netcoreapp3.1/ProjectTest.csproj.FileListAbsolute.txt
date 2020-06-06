@@ -1,0 +1,13 @@
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.exe
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.deps.json
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.runtimeconfig.json
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.runtimeconfig.dev.json
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.dll
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\bin\Debug\netcoreapp3.1\ProjectTest.pdb
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.AssemblyInfoInputs.cache
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.AssemblyInfo.cs
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.dll
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.pdb
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.genruntimeconfig.cache
+C:\Users\AlexVolk\Desktop\C#\proj\ProjectTest\ProjectTest\obj\Debug\netcoreapp3.1\ProjectTest.csprojAssemblyReference.cache
